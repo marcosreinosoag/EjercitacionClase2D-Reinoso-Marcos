@@ -1,0 +1,16 @@
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\Ejercicio02\bin\Debug\net5.0\Ejercicio02.exe
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\Ejercicio02\bin\Debug\net5.0\Ejercicio02.deps.json
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\Ejercicio02\bin\Debug\net5.0\Ejercicio02.runtimeconfig.json
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\Ejercicio02\bin\Debug\net5.0\Ejercicio02.runtimeconfig.dev.json
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\Ejercicio02\bin\Debug\net5.0\Ejercicio02.dll
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\Ejercicio02\bin\Debug\net5.0\ref\Ejercicio02.dll
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\Ejercicio02\bin\Debug\net5.0\Ejercicio02.pdb
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\Ejercicio02\obj\Debug\net5.0\Ejercicio02.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\Ejercicio02\obj\Debug\net5.0\Ejercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\Ejercicio02\obj\Debug\net5.0\Ejercicio02.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\Ejercicio02\obj\Debug\net5.0\Ejercicio02.AssemblyInfo.cs
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\Ejercicio02\obj\Debug\net5.0\Ejercicio02.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\Ejercicio02\obj\Debug\net5.0\Ejercicio02.dll
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\Ejercicio02\obj\Debug\net5.0\ref\Ejercicio02.dll
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\Ejercicio02\obj\Debug\net5.0\Ejercicio02.pdb
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\Ejercicio02\obj\Debug\net5.0\Ejercicio02.genruntimeconfig.cache
