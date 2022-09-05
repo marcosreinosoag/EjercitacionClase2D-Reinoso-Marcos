@@ -1,0 +1,12 @@
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\BibliotecaOrientadoObj02\bin\Debug\net5.0\BibliotecaOrientadoObj02.deps.json
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\BibliotecaOrientadoObj02\bin\Debug\net5.0\BibliotecaOrientadoObj02.dll
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\BibliotecaOrientadoObj02\bin\Debug\net5.0\ref\BibliotecaOrientadoObj02.dll
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\BibliotecaOrientadoObj02\bin\Debug\net5.0\BibliotecaOrientadoObj02.pdb
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\BibliotecaOrientadoObj02\obj\Debug\net5.0\BibliotecaOrientadoObj02.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\BibliotecaOrientadoObj02\obj\Debug\net5.0\BibliotecaOrientadoObj02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\BibliotecaOrientadoObj02\obj\Debug\net5.0\BibliotecaOrientadoObj02.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\BibliotecaOrientadoObj02\obj\Debug\net5.0\BibliotecaOrientadoObj02.AssemblyInfo.cs
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\BibliotecaOrientadoObj02\obj\Debug\net5.0\BibliotecaOrientadoObj02.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\BibliotecaOrientadoObj02\obj\Debug\net5.0\BibliotecaOrientadoObj02.dll
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\BibliotecaOrientadoObj02\obj\Debug\net5.0\ref\BibliotecaOrientadoObj02.dll
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\BibliotecaOrientadoObj02\obj\Debug\net5.0\BibliotecaOrientadoObj02.pdb

@@ -1,0 +1,16 @@
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos04\bin\Debug\net5.0\EjercMetodosEstaticos04.exe
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos04\bin\Debug\net5.0\EjercMetodosEstaticos04.deps.json
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos04\bin\Debug\net5.0\EjercMetodosEstaticos04.runtimeconfig.json
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos04\bin\Debug\net5.0\EjercMetodosEstaticos04.runtimeconfig.dev.json
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos04\bin\Debug\net5.0\EjercMetodosEstaticos04.dll
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos04\bin\Debug\net5.0\ref\EjercMetodosEstaticos04.dll
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos04\bin\Debug\net5.0\EjercMetodosEstaticos04.pdb
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos04\obj\Debug\net5.0\EjercMetodosEstaticos04.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos04\obj\Debug\net5.0\EjercMetodosEstaticos04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos04\obj\Debug\net5.0\EjercMetodosEstaticos04.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos04\obj\Debug\net5.0\EjercMetodosEstaticos04.AssemblyInfo.cs
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos04\obj\Debug\net5.0\EjercMetodosEstaticos04.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos04\obj\Debug\net5.0\EjercMetodosEstaticos04.dll
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos04\obj\Debug\net5.0\ref\EjercMetodosEstaticos04.dll
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos04\obj\Debug\net5.0\EjercMetodosEstaticos04.pdb
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos04\obj\Debug\net5.0\EjercMetodosEstaticos04.genruntimeconfig.cache

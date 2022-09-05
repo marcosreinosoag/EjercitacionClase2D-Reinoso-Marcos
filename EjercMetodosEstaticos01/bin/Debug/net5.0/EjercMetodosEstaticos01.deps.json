@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EjercMetodosEstaticos01/1.0.0": {
+        "runtime": {
+          "EjercMetodosEstaticos01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjercMetodosEstaticos01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

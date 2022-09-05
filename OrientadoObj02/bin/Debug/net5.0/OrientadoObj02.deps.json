@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OrientadoObj02/1.0.0": {
+        "dependencies": {
+          "BibliotecaOrientadoObj02": "1.0.0"
+        },
+        "runtime": {
+          "OrientadoObj02.dll": {}
+        }
+      },
+      "BibliotecaOrientadoObj02/1.0.0": {
+        "runtime": {
+          "BibliotecaOrientadoObj02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrientadoObj02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaOrientadoObj02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

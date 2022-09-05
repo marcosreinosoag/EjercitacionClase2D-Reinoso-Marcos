@@ -1,0 +1,15 @@
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos05\bin\Debug\net5.0\EjercMetodosEstaticos05.exe
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos05\bin\Debug\net5.0\EjercMetodosEstaticos05.deps.json
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos05\bin\Debug\net5.0\EjercMetodosEstaticos05.runtimeconfig.json
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos05\bin\Debug\net5.0\EjercMetodosEstaticos05.runtimeconfig.dev.json
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos05\bin\Debug\net5.0\EjercMetodosEstaticos05.dll
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos05\bin\Debug\net5.0\ref\EjercMetodosEstaticos05.dll
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos05\bin\Debug\net5.0\EjercMetodosEstaticos05.pdb
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos05\obj\Debug\net5.0\EjercMetodosEstaticos05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos05\obj\Debug\net5.0\EjercMetodosEstaticos05.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos05\obj\Debug\net5.0\EjercMetodosEstaticos05.AssemblyInfo.cs
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos05\obj\Debug\net5.0\EjercMetodosEstaticos05.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos05\obj\Debug\net5.0\EjercMetodosEstaticos05.dll
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos05\obj\Debug\net5.0\ref\EjercMetodosEstaticos05.dll
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos05\obj\Debug\net5.0\EjercMetodosEstaticos05.pdb
+C:\Users\marco\source\repos\EjercitacionClase2d-Reinoso-Marcos\EjercMetodosEstaticos05\obj\Debug\net5.0\EjercMetodosEstaticos05.genruntimeconfig.cache
